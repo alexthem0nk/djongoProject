@@ -1,0 +1,8 @@
+_id,deviceID,deviceName,lastReading,latitude,location,longitude,newStation,state
+1,dlb_atm41_5282,DLB ATM41 Charlestown Skate Park,2023-01-03T13:00:00.000Z,-32.96599,"-32.96599,151.69513",151.69513,false,New South Wales
+2,dlb_atm41_5281,DLB ATM41 Speers Point Pool,2023-01-03T13:00:00.000Z,-32.96305,"-32.96305, 151.61993",151.61993,false,New South Wales
+3,dlb_atm44_5284,DLB ATM42 Whitebridge,2023-01-03T13:00:00.000Z,-32.55192,"-32.55192, 150.48883",150.48883,true,Queensland
+4,dlb_atm42_5281,DLB ATM43 Orange,2023-01-03T13:00:00.000Z,-32.57027,"-32.57027, 149.31279",149.31279,true,New South Wales
+5,dlb_atm43_5283,DLB ATM44 Black,2023-01-03T13:00:00.000Z,-33.42869,"-33.42869, 150.27716",150.27716,true,New South Wales
+6,dlb_atm43_5283,DLB ATM45 Red,2023-01-03T13:00:00.000Z,-32.27009,"-32.27009, 149.87636",149.87636,true,New South Wales
+7,dlb_atm45_5285,DLB ATM45 Green,2023-01-03T13:00:00.000Z,-33.94819,"-33.94819, 150.46078",150.46078,true,New South Wales
